@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hellow, main and Git")
+	fmt.Println("Hellowццццц, main and Git")
 	feature1.Feature1()
 
 	simple_connection.ChekConnection()
